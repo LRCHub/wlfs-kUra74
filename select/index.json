@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アルビレオ",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-04T02:09:59.730096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルビレオ",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/01_アルビレオ_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルビレオ",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/02_アルビレオ_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Albireo-アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/03_Albireo-アルビレオ-_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Albireo -アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/04_Albireo_-アルビレオ-_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Albireo -アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/05_Albireo_-アルビレオ-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Albireo-アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/06_Albireo-アルビレオ-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Albireo -アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/07_Albireo_-アルビレオ-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アルビレオ",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/08_アルビレオ_Rokudenashi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アルビレオ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/09_アルビレオ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Albireo -アルビレオ-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/10_Albireo_-アルビレオ-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルビレオ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_アルビレオ_ロクデナシ.txt"
+    }
+  ]
+}
